@@ -1,0 +1,5 @@
+101|Clean Code|Robert C. Martin|0|-1
+102|The C++ Programming Language|Bjarne Stroustrup|0|-1
+103|Data Structures Using C++|D.S. Malik|0|-1
+104|Operating System Concepts|Silberschatz|0|-1
+105|Computer Networks|Andrew S. Tanenbaum|0|-1
